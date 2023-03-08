@@ -1,0 +1,88 @@
+Tue Mar 07 00:36:20 NOVT 2023: Hello
+Wed Mar 08 01:31:44 NOVT 2023: Hello
+Wed Mar 08 01:31:44 NOVT 2023: Complex number 5.0 , 6.0i created!
+Wed Mar 08 01:31:47 NOVT 2023: Hello
+Wed Mar 08 01:31:47 NOVT 2023: Complex number 5.0 , 6.0i created!
+Wed Mar 08 01:31:50 NOVT 2023: Hello
+Wed Mar 08 01:31:51 NOVT 2023: Complex number 5.0 , 6.0i created!
+Wed Mar 08 01:36:45 NOVT 2023: Hello
+Wed Mar 08 01:36:45 NOVT 2023: Complex number 5.0 , 6.0i created!
+Wed Mar 08 01:36:45 NOVT 2023: Сумма комплексных чисел: 
+Wed Mar 08 01:36:45 NOVT 2023: Complex number 0.0 , 0.0i created!
+Wed Mar 08 01:38:05 NOVT 2023: Hello
+Wed Mar 08 01:38:05 NOVT 2023: Complex number 5.0 , 6.0i created!
+Wed Mar 08 01:38:05 NOVT 2023: Сумма комплексных чисел: 
+Wed Mar 08 01:38:05 NOVT 2023: Complex number 0.0 , 0.0i created!
+Wed Mar 08 22:26:59 NOVT 2023: Число x: 1.0
+Wed Mar 08 22:26:59 NOVT 2023: Число y: 1.0
+Wed Mar 08 22:26:59 NOVT 2023: Мнимая часть х: 2.0
+Wed Mar 08 22:26:59 NOVT 2023: Мнимая часть y: 2.0
+Wed Mar 08 22:26:59 NOVT 2023: Сумма комплексных чисел: 
+Wed Mar 08 22:26:59 NOVT 2023: Complex number 3.0 , 3.0i created!
+Wed Mar 08 22:49:54 NOVT 2023: Число x: 1.0
+Wed Mar 08 22:49:54 NOVT 2023: Число y: 1.0
+Wed Mar 08 22:49:54 NOVT 2023: Мнимая часть х: 2.0
+Wed Mar 08 22:49:54 NOVT 2023: Мнимая часть y: 2.0
+Wed Mar 08 22:49:54 NOVT 2023: Сумма комплексных чисел: 
+Wed Mar 08 22:49:54 NOVT 2023: Complex number 3.0 , 3.0i created!
+Wed Mar 08 22:49:54 NOVT 2023: Произведение комплексных чисел: 
+Wed Mar 08 22:49:54 NOVT 2023: Complex number 0.0 , 4.0i created!
+Thu Mar 09 00:41:18 NOVT 2023: Число x: 1.0
+Thu Mar 09 00:41:19 NOVT 2023: Число y: 2.0
+Thu Mar 09 00:41:19 NOVT 2023: Мнимая часть х: 1.0
+Thu Mar 09 00:41:19 NOVT 2023: Мнимая часть y: 2.0
+Thu Mar 09 00:41:24 NOVT 2023: Сумма комплексных чисел: 
+Thu Mar 09 00:41:24 NOVT 2023: Complex number 2.0 , 4.0i created!
+Thu Mar 09 00:45:14 NOVT 2023: Число x: 1.0
+Thu Mar 09 00:45:14 NOVT 2023: Число y: 2.0
+Thu Mar 09 00:45:14 NOVT 2023: Мнимая часть х: 1.0
+Thu Mar 09 00:45:14 NOVT 2023: Мнимая часть y: 2.0
+Thu Mar 09 00:45:15 NOVT 2023: Сумма комплексных чисел: 
+Thu Mar 09 00:45:15 NOVT 2023: Complex number 2.0 , 4.0i created!
+Thu Mar 09 00:48:01 NOVT 2023: Число x: 1.0
+Thu Mar 09 00:48:01 NOVT 2023: Число y: 2.0
+Thu Mar 09 00:48:01 NOVT 2023: Мнимая часть х: 1.0
+Thu Mar 09 00:48:01 NOVT 2023: Мнимая часть y: 2.0
+Thu Mar 09 00:48:02 NOVT 2023: Сумма комплексных чисел: 
+Thu Mar 09 00:48:02 NOVT 2023: Complex number 2.0 , 4.0i created!
+Thu Mar 09 00:48:02 NOVT 2023: Произведение комплексных чисел: 
+Thu Mar 09 00:48:02 NOVT 2023: Complex number -3.0 , 4.0i created!
+Thu Mar 09 00:48:02 NOVT 2023: Частное комплексных чисел: 
+Thu Mar 09 00:48:02 NOVT 2023: Complex number 0.625 , 0.0i created!
+Thu Mar 09 00:48:02 NOVT 2023: Разность комплексных чисел: 
+Thu Mar 09 00:48:02 NOVT 2023: Complex number 0.0 , 0.0i created!
+Thu Mar 09 00:50:49 NOVT 2023: Число x: 1.0
+Thu Mar 09 00:50:49 NOVT 2023: Число y: 2.0
+Thu Mar 09 00:50:49 NOVT 2023: Мнимая часть х: 3.0
+Thu Mar 09 00:50:49 NOVT 2023: Мнимая часть y: 3.0
+Thu Mar 09 00:50:53 NOVT 2023: Сумма комплексных чисел: 
+Thu Mar 09 00:50:53 NOVT 2023: Complex number 4.0 , 5.0i created!
+Thu Mar 09 00:57:43 NOVT 2023: Число x: 4.0
+Thu Mar 09 00:57:43 NOVT 2023: Число y: 5.0
+Thu Mar 09 00:57:46 NOVT 2023: Произведение чисел: 20.0
+Thu Mar 09 00:57:46 NOVT 2023: Частное чисел: 0.8
+Thu Mar 09 00:57:46 NOVT 2023: Разность чисел: -1.0
+Thu Mar 09 00:58:41 NOVT 2023: Число x: 3.0
+Thu Mar 09 00:58:41 NOVT 2023: Число y: 3.0
+Thu Mar 09 00:58:41 NOVT 2023: Мнимая часть х: 4.0
+Thu Mar 09 00:58:41 NOVT 2023: Мнимая часть y: 4.0
+Thu Mar 09 00:58:44 NOVT 2023: Частное комплексных чисел: 
+Thu Mar 09 00:58:44 NOVT 2023: Complex number 0.96 , 0.0i created!
+Thu Mar 09 01:00:35 NOVT 2023: Число x: 2.0
+Thu Mar 09 01:00:35 NOVT 2023: Число y: 2.0
+Thu Mar 09 01:00:35 NOVT 2023: Мнимая часть х: 3.0
+Thu Mar 09 01:00:35 NOVT 2023: Мнимая часть y: 3.0
+Thu Mar 09 01:00:38 NOVT 2023: Частное комплексных чисел: 
+Thu Mar 09 01:00:38 NOVT 2023: Complex number 0.9230769230769231 , 0.0i created!
+Thu Mar 09 01:01:36 NOVT 2023: Число x: 21.0
+Thu Mar 09 01:01:36 NOVT 2023: Число y: 3.0
+Thu Mar 09 01:02:11 NOVT 2023: Сумма чисел: 24.0
+Thu Mar 09 01:03:31 NOVT 2023: Число x: 4.0
+Thu Mar 09 01:03:31 NOVT 2023: Число y: 5.0
+Thu Mar 09 01:03:31 NOVT 2023: Мнимая часть х: 6.0
+Thu Mar 09 01:03:31 NOVT 2023: Мнимая часть y: 7.0
+Thu Mar 09 01:03:36 NOVT 2023: Произведение комплексных чисел: 
+Thu Mar 09 01:03:36 NOVT 2023: Complex number -11.0 , 58.0i created!
+Thu Mar 09 01:06:19 NOVT 2023: Число x: 3.0
+Thu Mar 09 01:06:19 NOVT 2023: Число y: 4.0
+Thu Mar 09 01:06:25 NOVT 2023: Частное чисел: 0.75
